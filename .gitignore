@@ -38,3 +38,8 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 .Rproj.user
+
+#Kaggle Data
+KaggleDataFiles
+ncaam-march-mania-2021.zip
+
